@@ -1,0 +1,20 @@
+{
+  "name": "movieapp",
+  "version": "1.0.0",
+  "description": "Fetching data from movie database",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "search",
+    "a",
+    "movie"
+  ],
+  "author": "Abhik Samanta",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.87.0",
+    "yargs": "^11.0.0"
+  }
+}
